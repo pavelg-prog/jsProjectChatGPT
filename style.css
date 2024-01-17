@@ -1,0 +1,26 @@
+.main-div {
+  margin-top: 60px;
+}
+
+.chat-gpt-div {
+  margin-top: 30px;
+}
+
+.send-message-div {
+  margin-top: 120px;
+}
+
+.message-button {
+  margin-top: 10px;
+}
+
+.loader {
+  background-image: url('./images/loading.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#loader {
+  width: 20rem;
+  height: 10rem;
+}
